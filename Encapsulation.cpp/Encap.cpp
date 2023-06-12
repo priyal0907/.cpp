@@ -55,7 +55,7 @@ class data{
 
 		}
 };
-char data :: hotel_location[]="Rajkot";
+char data :: hotel_location[]="Rajula";
 
 int main(){
 
